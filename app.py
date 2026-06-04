@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Encabezado
-st.title("📊 Aplicación de Analisis de Datos de Ecommerce ")
+st.title("📊 Aplicación de Exploracion de Datos y Visualizacion   ")
 
 st.markdown("""
 ### Informacion personal del Alumno
