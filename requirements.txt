@@ -3,5 +3,4 @@ pandas
 numpy
 openpyxl
 setuptools
-sweetviz==2.3.1
 pygwalker==0.4.9.15
